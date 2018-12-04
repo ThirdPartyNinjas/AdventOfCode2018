@@ -10,4 +10,7 @@ namespace Advent
 
 	void Day3A();
 	void Day3B();
+
+	void Day4A();
+	void Day4B();
 }
