@@ -16,5 +16,8 @@ int main()
 	Day4A();
 	Day4B();
 
+	Day5A();
+	Day5B();
+
 	return 0;
 }
